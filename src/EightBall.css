@@ -1,0 +1,52 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.EightBall-outter {
+  width: 30em;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  height: 28em;
+  padding-top: 1em;
+  text-align: center;
+  margin-right: 1em;
+
+
+}
+
+.EightBall-inner {
+  width: 15em;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  height: 13em;
+  padding-top: 1em;
+  text-align: center;
+  margin-right: .5em;
+  margin-top: 7rem;
+
+}
+
+#eight {
+  font-size: 3rem;
+  font-weight: 900;
+  margin-bottom: -1rem;
+}
+
+.btn {
+  background-color: #0066AE;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 9px;
+  font-size: 20px;
+}
+
+.header-text {
+  font-family: sans-serif;
+  color: #0066AE;
+  font-weight: 900;
+  font-size: 25px;
+  margin-bottom: 4rem;
+}
