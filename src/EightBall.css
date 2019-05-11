@@ -3,11 +3,11 @@ body {
 }
 
 .EightBall-outter {
-  width: 30em;
+  width: 25em;
   background-color: black;
   border-radius: 50%;
   display: inline-block;
-  height: 28em;
+  height: 24em;
   padding-top: 1em;
   text-align: center;
   margin-right: 1em;
@@ -23,8 +23,8 @@ body {
   height: 13em;
   padding-top: 1em;
   text-align: center;
-  margin-right: .5em;
-  margin-top: 7rem;
+  margin-right: .3em;
+  margin-top: 4.5rem;
 
 }
 
